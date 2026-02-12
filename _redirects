@@ -1,0 +1,11 @@
+# Основной домен (bigsbetal.cfd) — русский язык, редирект на ru.bigsbetal.cfd
+https://bigsbetal.cfd/* https://ru.bigsbetal.cfd/:splat 301
+https://www.bigsbetal.cfd/* https://ru.bigsbetal.cfd/:splat 301
+# Поддомены по языкам: RU, EN, DE, PL, UZ (узбекский), AZ, KY
+https://ru.bigsbetal.cfd/* /ru/:splat 200
+https://en.bigsbetal.cfd/* /en/:splat 200
+https://de.bigsbetal.cfd/* /de/:splat 200
+https://pl.bigsbetal.cfd/* /pl/:splat 200
+https://uz.bigsbetal.cfd/* /uz/:splat 200
+https://az.bigsbetal.cfd/* /az/:splat 200
+https://ky.bigsbetal.cfd/* /ky/:splat 200

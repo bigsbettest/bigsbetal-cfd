@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+# Основной домен — русский. Поддомены: en, de, pl, uz (узбекский), az, ky
+Sitemap: https://ru.bigsbetal.cfd/sitemap-index.xml
+Sitemap: https://ru.bigsbetal.cfd/sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+# bigsbetal.cfd — основной домен (русский), редирект на ru.bigsbetal.cfd
+# Поддомены: ru, en, de, pl, uz (узбекский), az, ky
+Sitemap: https://ru.bigsbetal.cfd/sitemap-index.xml

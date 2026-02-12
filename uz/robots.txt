@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uz.bigsbetal.cfd/sitemap.xml

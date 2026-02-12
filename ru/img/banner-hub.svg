@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1526"/>
+      <stop offset="1" stop-color="#2b1c3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#g)"/>
+  <rect x="40" y="40" width="1120" height="280" rx="18" fill="#14111d" stroke="#2a2738"/>
+  <circle cx="120" cy="120" r="40" fill="#F9820F"/>
+  <text x="200" y="130" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">BigsBet Help Center</text>
+  <text x="200" y="170" font-family="Arial, sans-serif" font-size="16" fill="#bdb7d2">>H03>2K5 3094K 8 1070 7=0=89 4;O 83@>:>2</text>
+  <rect x="200" y="210" width="180" height="38" rx="8" fill="#F9820F"/>
+  <text x="220" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">0G0BL >1CG5=85</text>
+</svg>
